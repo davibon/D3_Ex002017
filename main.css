@@ -2,3 +2,16 @@ body{
     color: saddlebrown;
     font-family: arial;
 }
+table{
+    color: darkslategray;
+}
+#poem{
+    color:royalblue;
+}
+
+a:hover{
+    color: aqua;
+}
+a{
+    text-decoration: none;
+}
