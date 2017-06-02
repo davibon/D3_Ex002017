@@ -15,3 +15,9 @@ a:hover{
 a{
     text-decoration: none;
 }
+#ranum{
+    border-style: solid;
+    border-color: red;
+    height: 20px;
+    width: 150px;
+}
